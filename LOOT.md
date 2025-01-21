@@ -58,7 +58,7 @@
 | [Random Number Perforator](https://www.wowhead.com/ptr-2/item=231266/random-number-perforator) | Weapon | Agi Dagger |
 | [Operator's Fraud Detector](https://www.wowhead.com/ptr-2/item=228906/operators-fraud-detector) | Weapon | Int Off-hand |
 
-## The One-Armed Bandit
+## Mug'Zee, Heads of Security
 | Item | Type | Role |
 | --- | --- | --- |
 | [Capo's Molten Knuckles](https://www.wowhead.com/ptr-2/item=232804/capos-molten-knuckles) | Special+Rare - Weapon | Main Hand Agi/Str Fist |
@@ -68,7 +68,7 @@
 | [Zee's Thug Hotline](https://www.wowhead.com/ptr-2/item=230199/zees-thug-hotline) | Trinket | Melee DPS Trinket |
 | [Wiseguy's Refused Offer](https://www.wowhead.com/ptr-2/item=228902/wiseguys-refused-offer) | Weapon | 1h Str Mace |
 
-## The One-Armed Bandit
+## Chrome King Gallywix
 | Item | Type | Role |
 | --- | --- | --- |
 | [Excessively Bejewelled Curio](https://www.wowhead.com/ptr-2/item=228819/excessively-bejeweled-curio) | Tier Token | Any |
